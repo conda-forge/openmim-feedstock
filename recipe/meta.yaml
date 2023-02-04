@@ -1,5 +1,5 @@
 {% set name = "openmim" %}
-{% set version = "0.3.5" %}
+{% set version = "0.3.6" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/openmim-{{ version }}.tar.gz
-  sha256: 1dffedc82eaef7b1df012ba873db8659e19a699607ce7c127a49ed03b9cae94d
+  sha256: ce42fd018f5db27c5c9f79a6795afd980ade28acf0f0f39cf1abdc961573dab6
 
 build:
   entry_points:
