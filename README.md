@@ -1,11 +1,11 @@
-About openmim
-=============
+About openmim-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/openmim-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/open-mmlab/mim
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/openmim-feedstock/blob/main/LICENSE.txt)
 
 Summary: MIM Installs OpenMMLab packages
 
